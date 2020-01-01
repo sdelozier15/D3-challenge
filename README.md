@@ -4,7 +4,7 @@ Sarah DeLozier | U.S. Census Bureau, 2014 ACS 1-Year Estimates
 
 ## Targeting those At-Risk
 
-The goal of this project is to find those states that would have benefited the most from Medicaid Expansion in 2014. U.S. Census Bureau and Behavioral Risk Factor Surveillance System research data were visualized and analyzed to explore potential correlations between health risks, age, and income. This project discovers correlations between the percentage of a State's population in poverty and poor health habits (smoking, obesity).
+The goal of this project is to find those states that would have benefited the most from programs for the underserved in 2014. U.S. Census Bureau and Behavioral Risk Factor Surveillance System research data were visualized and analyzed to explore potential correlations between health risks, age, and income. This project discovers correlations between the percentage of a State's population in poverty and poor health habits (smoking, obesity).
 
 The data set included with the assignment is based on 2014 ACS 1-year estimates: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml), but you are free to investigate a different data set. The current data set includes data on rates of income, obesity, poverty, etc. by state. 
 
